@@ -1,2 +1,7 @@
 # Chatbot_using_NLP
-Implementation of chatbot using NLP
+Implimentation of chatbot using NLP
+Training for the project on Implementation of Chatbot using NLP
+
+To run streamlit use the command as
+
+# streamlit run chatbot.py
